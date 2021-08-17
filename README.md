@@ -14,6 +14,7 @@ Which includes both frontend (Client - ReactJS) and backend (API - NodeJS)
 ## Back-end (NodeJS) - Folder: API
 1. Install the dependencies
   `npm install`
+2. Change the AWS access key in .env file, to access AWS DynamoDB
   
 ## How to the run URL Shortening Service Application
 1. In your terminal, go to API folder path
